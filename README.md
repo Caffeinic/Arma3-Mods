@@ -1,5 +1,24 @@
 # Arma3-Mods
-Arma3 mod development notes
 
-# Test
-some notes here
+# SQF構文
+
+変数の宣言は以下のとおりである. 型指定はなく, 識別子の大文字・小文字は区別されない.
+```
+variable = 0;
+```
+
+コメント行は`//`で始まる.
+```
+// this line is a comment
+```
+
+関数の宣言は以下のとおりである.
+```
+
+function = {
+	
+};
+
+```
+
+
